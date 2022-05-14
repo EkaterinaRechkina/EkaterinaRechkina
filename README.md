@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekaterina</h1>
 <h3 align="center">I'm a Frontend Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ekaterina" target="blank"><img src="https://img.shields.io/twitter/follow/ekaterina?logo=twitter&style=for-the-badge" alt="ekaterina" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ekateri24032671" target="blank"><img src="https://img.shields.io/twitter/follow/ekaterina?logo=twitter&style=for-the-badge" alt="ekaterina" /></a> </p>
 
 - 🌱 I’m currently learning **Java Script**
 
