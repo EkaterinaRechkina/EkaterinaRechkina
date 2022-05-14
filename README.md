@@ -4,18 +4,18 @@
 
 ## I'm a Frontend Developer
 
-- 🔭 Check out my VS Code course: 
+
 - 🌱 I’m currently learning everything Java Script
 
 
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Ekateri24032671#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Ekateri24032671#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Ekateri24032671)
+
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ekaterinarechkina/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ekaterinarechkina/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ekaterinarechkina)
+
 &nbsp;&nbsp;
 
 ### Languages and Tools:
