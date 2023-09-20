@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekaterina</h1>
 <h3 align="center">I'm a Frontend Developer</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
